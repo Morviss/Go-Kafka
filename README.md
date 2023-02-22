@@ -8,7 +8,7 @@ docker-compose up -d #to up the docker-compose
 
 and added the producer and consumer files and run the commands for the producers and consumers
 
-#producer
+# producer
 
 go run producer/producer.go producer/types.go producer/main.go 
 or 
